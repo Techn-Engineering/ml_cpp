@@ -3,7 +3,7 @@
 ```bash
 
 # clone and build repo
- $ git clone https://github.com/Efekurdoglu/ml_cpp.git
+ $ git clone https://github.com/Techn-Engineering/ml_cpp.git
  $ mkdir build
  $ cd build
  $ cmake ..
