@@ -1,5 +1,6 @@
-//  Created by Tech Engineering, efekurdoglu@outlook.com on 6/11/2022.
-//  Copyright © 2023 Tech Engineering. All rights reserved.
+///  Created by Tech Engineering, efe@lexpai.com on 6/11/2022.
+///  Copyright © 2023 Tech Engineering. All rights reserved.
+///  Copyright © 2023 LexpAI. All rights reserved.
 
 #include "../include/knn.h"
 #include <cmath>

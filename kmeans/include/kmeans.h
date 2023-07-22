@@ -1,3 +1,7 @@
+///  Created by Tech Engineering, efe@lexpai.com on 6/11/2022.
+///  Copyright © 2023 Tech Engineering. All rights reserved.
+///  Copyright © 2023 LexpAI. All rights reserved.
+
 #ifndef __KMEANS_H
 #define __KMEANS_H
 
